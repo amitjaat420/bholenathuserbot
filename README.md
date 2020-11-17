@@ -7,20 +7,20 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/amitjaat420/bholenathuserbot)
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-## By amitjaat420
+## **By amitjaat420**
 ## HOW TO DEPLOY 
 
 ## Installing Heroku 
 
 ### The Easy Way
 
-1.Generate String session from [![Repl.it](https://img.shields.io/badge/REPL%20RUN-Run%20Online-blue.svg)](https://repl.it/@amitjaat420/bholenathuserbot-2)
+**1.Generate String session from** [![Repl.it](https://img.shields.io/badge/REPL%20RUN-Run%20Online-blue.svg)](https://repl.it/@amitjaat420/bholenathuserbot-2)
 
-2.Click on [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template= https://github.com/amitjaat420/bholenathuserbot)
+**2.Click on** [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template= https://github.com/amitjaat420/bholenathuserbot)
  
-3.Fill up required fields like Appid,Api hash, String Sesson , Bot token nd Bot username
+**3.Fill up required fields like Appid,Api hash, String Sesson , Bot token nd Bot username**
 
-4.Hola! Click on deploy now nd wait for 20-30mins
+**4.Hola! Click on deploy now nd wait for 20-30mins**
 
 ### The Normal Way
 
@@ -36,9 +36,9 @@ python3 -m userbot
 
 An example local_config.py file could be:
 
-Not All of the variables are mandatory
+**Not All of the variables are mandatory**
 
-The Userbot should work by setting only the first two variables
+__The Userbot should work by setting only the first two variables__
 
 python3
 from heroku_config import Var
@@ -53,10 +53,10 @@ class Development(Var):
 
 The Borg Config is situated in userbot/borgConfig.py.
 
-Heroku Configuration
+**Heroku Configuration**
 Simply just leave the Config as it is.
 
-Local Configuration
+**Local Configuration**
 Fortunately there are no Mandatory vars for the Borg Support Config.
 
 ## Mandatory Vars
